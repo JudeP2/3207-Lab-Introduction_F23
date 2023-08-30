@@ -2,4 +2,4 @@
 #include <stdlib.h>
 #include <time.h>
 
-int randchar();
+int randchar();// defines the randchar function to be used in multiple c files
